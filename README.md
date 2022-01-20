@@ -31,8 +31,6 @@ Deep reinforcement learning
 ![image](https://github.com/a303990366/DRL-path-planning/blob/main/GIF/PPO.gif)
 #### A2C-100 consequences(using 155.45 mins to train)
 ![image](https://github.com/a303990366/DRL-path-planning/blob/main/GIF/A2C.gif)
-#### Fail case
-![image](https://github.com/a303990366/DRL-path-planning/blob/main/Path%20Planning/discrete/test_8.png)
 #### Detail
 | Algorithm | average_reward  | average_lengths | average_spent_time |Find path(%)| Touch obstacle(%) | Over max step(%) | 
 |-----------| --------------- | --------------- | ------------------ | ---------- |------------------ | ---------------- |
