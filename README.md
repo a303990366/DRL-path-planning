@@ -4,7 +4,7 @@ Deep reinforcement learning
 
 ## 1.Introduction
 #### We try to using deep reinforcement learning to make path planning in discrete observation space.
-#### In this report,we test two algorithms:DQN,PPO and A2C.
+#### In this report,we test three algorithms:DQN,PPO and A2C.
 
 ## 2.Requirement
  * stable_baselines3
